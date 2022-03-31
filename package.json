@@ -23,6 +23,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "http://portareggia.ddns.net/scb/",
   "browserslist": {
     "production": [
       ">0.2%",
